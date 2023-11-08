@@ -1,0 +1,207 @@
+1)BOW
+
+sent1-> He is a good Boy
+sent2-> She is a good girl
+sent3-> Boy and Girl are good
+
+sen1->good boy
+sent2->good girl
+sent3->boy girl good 
+
+frequency table
+good ---> 3
+boy ---> 2
+girl --> 2
+
+
+vectorization
+       good   boy  girl
+
+sent1   1      1     0
+
+sent2   1      0     1
+
+sent3   1      5     1
+
+
+2)TF-IDF
+
+TF=no of repetition of words in sentence/no of words in sentence
+
+IDf= log(no.of sentences/no of sentences containing the word)
+
+sent1-> He is a good Boy
+sent2-> She is a good girl
+sent3-> Boy and Girl are good
+
+sen1->good boy
+sent2->good girl
+sent3->boy girl good 
+
+frequency table
+good ---> 3
+boy ---> 2
+girl --> 2
+
+TF-idf algorithm
+
+               TF                         *                         IDF
+          sent1    sent2    sent3                          words         IDf           
+
+good      1/2      1/2      1/3                            good          lg(3/3)=0
+
+boy       1/2       0       1/3                            boy           lg(3/2)=0.17
+
+girl      0        1/2      1/3                            girl          lg(3/2)=0.17
+
+
+
+          good          boy         girl
+
+sent1     0             0.0875         0
+
+sent2     0                0          0.0875                
+
+sent3     0             0.0875        0.05666  
+
+
+cosine similarity ==    A.B
+                    ||A|| ||B||  
+
+cosine distance = 1-cosine similarity
+   
+    
+example :-
+      
+       team   coach   hockey    baseball   soccer   penalty    score
+
+Doc1   5       0       3          0           2       0          0   
+
+Doc2   3       0       2          0           1        1         0
+
+
+
+d1.d2 = (15+0+6+2+0+0)
+
+||d1||  = ()^0.5
+
+||d2||  =  ()^0.5
+
+0.946
+
+
+
+
+
+
+Word Embedding == In natural language processing (NLP), a word embedding is a 
+representation of a word. The embedding is used in text analysis. Typically, 
+the representation is a real-valued vector that encodes the meaning of the word in such a way 
+that words that are closer in the vector space are expected to be similar in meaning
+
+                                       word embedding
+                      Count or Frequency            Deep learning Trained Model
+                   1)Bag of Words                         1)Word2Vec   
+                   2)TF-IDF                           CBOW        Skipgram
+                   3)one-hot encoding
+
+3) Word2vec is a technique for natural language processing (NLP) published in 2013 by
+Google. The word2vec algorithm uses a neural network model to learn word associations from a
+large corpus of text. Once trained, such a model can detect synonymous words or suggest 
+additional words for a partial sentence. As the name implies,word2vec represents each distinct 
+word with a particular list of numbers called a vector.
+
+
+COW
+*Its importance ===> 
+1) context based probabilistic approach
+2) it is fast and sacalable
+3) it works with deep learning models like NLP,Neural Networks
+
+*How it works?
+1)learn the context in which a particular word appears
+2)words that occur in similiar context have similiar embedding
+
+example:- An efficient method for | learning | high quality distribute vector
+          -----context word------ |focus word| ----------context word--------     
+
+SkIPGRAM
+1) Inverse of CBOW model
+2) Input vector-single focus word, and the target are contyext words
+3) Typical window size is=5 or it can be any number
+
+
+Cosine similarity = cos0
+cosine distance = 1-cosine similarity
+
+
+BOW == Dhaval sat on a sofa and ate
+
+bigram == Dhaval sat  sat on   on a   a sofa   sofa and   and ate
+
+trigram  == Dhaval sat on    sat on a    on a sofa   a sofa and   sofa and ate
+..
+.
+.
+.
+.
+..
+n grams
+---this grams will become the feature of the entire vocabulary 
+
+
+
+
+Difference between word2vec and fasttext
+
+4) Fasttext
+-word2vec===>WORD is the unit on which neural network is trained
+-fasttext ===>CHARACTER n GRAM is the unit on which neural network is trained,
+
+
+-IMPORTANT:- the main disadvantage i figured out that in word2vec if our vocubalary doesn't have cat or any 
+ word then it shows out of vocabulary. 
+
+-so, fastetxt overcomes the out of vocabulary problem if there word is not present ex-capability,
+ fastext is similiar to word2vec
+
+suppose,
+capable, n=3
+cap, apa, pab, abl, ble
+
+Difference between word2vec and GloVe
+ *word2Vec
+   .There is Only local view of data beacause the algorithm has access to only specific window size
+   .Local windows capture similarity
+ *GloVe
+   .It creates word co-occurrence matrix
+   .capture global information
+
+ 
+
+GloVe===(Global+Vector)
+GloVe is an unsupervised learning algorithm for obtaining vector representations for words.
+Training is performed on aggregated global {word-word co-occurrence matrix or statistics} from a corpus,
+and the resulting representations showcase interesting linear substructures of the word vector space.
+
+You can derive semantic relationships between words from the co-occurrence matrix.
+
+example
+
+1) I enjoy flying.
+2) I like NLP
+3) I like Deep Learning.
+
+        I like enjoy deep learning NLP flying 
+
+I       0   2   0   1        0      0     0              
+like    2   0   0   1        0      1     0
+enjoy
+deep
+learing
+NLP
+flying
+
+
+
+
