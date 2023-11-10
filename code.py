@@ -122,9 +122,3 @@ fasttext_similarity = cosine_similarity(fasttext_vectors1, fasttext_vectors2)
 # print("Cosine Similarity (TF-IDF):", tfidf_similarity)
 print("Cosine Similarity (FastText):", fasttext_similarity)
 
-
-# Load the pre-trained FastText model using gensim
-fasttext_model = fasttext.load_model(fasttext_model_path)
-
-
-fasttext_model.get_nearest_neighbors("policy")
