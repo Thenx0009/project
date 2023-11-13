@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
-# Read text files
+"""
+Created on Mon Nov 13 13:44:59 2023
+
+@author: INDIA
+"""
+
 import fitz
 import re
 import nltk
@@ -13,6 +18,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 from gensim.models import Word2Vec
 import fasttext
 from gensim.models import KeyedVectors
+from glove import Corpus, Glove
+
 
 def read_pdf(file_path):
     doc = fitz.open(file_path)
@@ -23,7 +30,7 @@ def read_pdf(file_path):
     doc.close()
     return text
 
-# Specify the paths to your PDF files
+# # Specify the paths to your PDF files
 pdf_file_path1 = '.spyder-py3/Final_Project/act.pdf'
 pdf_file_path2 = '.spyder-py3/Final_Project/policy.pdf'
 
@@ -56,50 +63,39 @@ def preprocess_paragraph(paragraph):
 
     return corpus
 
-# Bag of words
-def bag_of_words(corpus, max_features=100):
-    # Create a CountVectorizer object with the specified max_features
-    cv = CountVectorizer(max_features=max_features)
-    X = cv.fit_transform(corpus).toarray()
-
-    return X
-
-# Tf-Idf
-def tfidf_vectorization(corpus, max_features=100):
-    # Create a TfidfVectorizer object with optional max_features
-    tfidf_vectorizer = TfidfVectorizer(max_features=max_features)
-
-    # Transform the corpus into a TF-IDF representation as a dense array
-    tfidf_matrix = tfidf_vectorizer.fit_transform(corpus).toarray()
-
-    return tfidf_matrix
-
-
 # Preprocess the paragraphs
 corpus1 = preprocess_paragraph(content1)
 corpus2 = preprocess_paragraph(content2)
 
-# Bag of words usage:
-# X1 = bag_of_words(corpus1, max_features=100)
-# X2 = bag_of_words(corpus2, max_features=100)
 
-# Tf-idf usage
-# tfidf_matrix1 = tfidf_vectorization(corpus1, max_features=100)
-# tfidf_matrix2 = tfidf_vectorization(corpus2, max_features=100)
+# Function to train GloVe model
+def train_glove_model(corpus, vector_size=50, window_size=10):
+    glove_corpus = Corpus()
+    
+    # Fit the corpus to the GloVe model
+    glove_corpus.fit(corpus, window=window_size)
+    
+    # Create a Glove model
+    glove_model = Glove(no_components=vector_size, learning_rate=0.05)
+    
+    # Fit the GloVe model on the corpus
+    glove_model.fit(glove_corpus.matrix, epochs=30, no_threads=4, verbose=True)
+    
+    # Add the learned words to the model's vocabulary
+    glove_model.add_dictionary(glove_corpus.dictionary)
+    
+    return glove_model
 
+# Train GloVe models on your corpora
+glove_model1 = train_glove_model(corpus1)
+glove_model2 = train_glove_model(corpus2)
 
-# Example usage:
-# word_vectors1 = word2vec_model1.wv
-# word_vectors2 = word2vec_model2.wv
+# Get the word vectors from the trained GloVe models
+word_vectors1 = glove_model1.word_vectors
+word_vectors2 = glove_model2.word_vectors
 
-# Calculate Cosine Similarity between BoW representations
-# bow_similarity = cosine_similarity(X1, X2)
+# Calculate Cosine Similarity between GloVe word vectors
+glove_similarity = cosine_similarity(word_vectors1, word_vectors2)
 
-# # Calculate Cosine Similarity between TF-IDF representations
-# tfidf_similarity = cosine_similarity(tfidf_matrix1, tfidf_matrix2)
-
-
-# Print the similarities
-# print("Cosine Similarity (BoW):", bow_similarity)
-# print("Cosine Similarity (TF-IDF):", tfidf_similarity)
-
+# Print the similarity
+print("Cosine Similarity (GloVe):", glove_similarity)
