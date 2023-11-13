@@ -21,6 +21,8 @@ from gensim.models import KeyedVectors
 from glove import Corpus, Glove
 
 
+
+
 def read_pdf(file_path):
     doc = fitz.open(file_path)
     text = ''
