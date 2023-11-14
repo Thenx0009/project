@@ -194,9 +194,9 @@ example
 
         I like enjoy deep learning NLP flying 
 
-I       0   2   0   1        0      0     0              
-like    2   0   0   1        0      1     0
-enjoy
+I       0   2   0     1      0      0     0              
+like    2   0   0     1      0      1     0
+enjoy   1   0   0     0      0      0     1
 deep
 learing
 NLP
