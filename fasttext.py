@@ -1,97 +1,103 @@
-# import fitz
-# import re
-# import nltk
-# from nltk.corpus import stopwords
-# from nltk.tokenize import word_tokenize
-# from nltk.tokenize import sent_tokenize, word_tokenize
-# from nltk.stem import WordNetLemmatizer
-# from sklearn.feature_extraction.text import CountVectorizer
-# from sklearn.feature_extraction.text import TfidfVectorizer
-# from sklearn.metrics.pairwise import cosine_similarity
-# from gensim.models import Word2Vec
-# import fasttext
-# from gensim.models import KeyedVectors
-# from sklearn.model_selection import train_test_split
+import fitz
+import re
+import nltk
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize, sent_tokenize
+from nltk.stem import WordNetLemmatizer
+from sklearn.feature_extraction.text import CountVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+from gensim.models import Word2Vec
+import fasttext
+from gensim.models import KeyedVectors
+from sklearn.model_selection import train_test_split
 
-# def read_pdf(file_path):
-#     doc = fitz.open(file_path)
-#     text = ''
-#     for page_num in range(doc.page_count):
-#         page = doc[page_num]
-#         text += page.get_text()
-#     doc.close()
-#     return text
+# Download the stopwords resource
+nltk.download('stopwords')
 
-# # Specify the paths to your PDF files
-# pdf_file_path1 = '.spyder-py3/Final_Project/act.pdf'
-# pdf_file_path2 = '.spyder-py3/Final_Project/policy.pdf'
+def read_pdf(file_path):
+    doc = fitz.open(file_path)
+    text = ''
+    for page_num in range(doc.page_count):
+        page = doc[page_num]
+        text += page.get_text()
+    doc.close()
+    return text
 
-# # Read text from PDF files
-# content1 = read_pdf(pdf_file_path1)
-# content2 = read_pdf(pdf_file_path2)
+# Specify the paths to your PDF files
+pdf_file_path1 = 'C:/Users/INDIA/.spyder-py3/FINAL_PROJECT/act.pdf'
+pdf_file_path2 = 'C:/Users/INDIA/.spyder-py3/FINAL_PROJECT/policy.pdf'
 
-# # Function to preprocess a paragraph
-# def preprocess_paragraph(paragraph):
-#     lemmatizer = WordNetLemmatizer()
+# Read text from PDF files
+content1 = read_pdf(pdf_file_path1)
+content2 = read_pdf(pdf_file_path2)
 
-#     # Tokenize the paragraph into sentences
-#     sentences = sent_tokenize(paragraph)
+def preprocess_paragraph(paragraph):
+    lemmatizer = WordNetLemmatizer()
 
-#     corpus = []
-#     for sentence in sentences:
-#         # Tokenize the sentence into words
-#         words = word_tokenize(sentence)
+    # Tokenize the paragraph into sentences
+    sentences = sent_tokenize(paragraph)
 
-#         # Remove non-alphabetic characters, convert to lowercase, and lemmatize
-#         clean_words = [lemmatizer.lemmatize(word.lower()) for word in words if word.isalpha()]
+    corpus = []
+    for sentence in sentences:
+        # Tokenize the sentence into words
+        words = word_tokenize(sentence)
 
-#         # Remove stopwords
-#         filtered_words = [word for word in clean_words if word not in stopwords.words('english')]
+        # Remove non-alphabetic characters, convert to lowercase, and lemmatize
+        clean_words = [lemmatizer.lemmatize(word.lower()) for word in words if word.isalpha()]
 
-#         # Join the cleaned words to form a sentence
-#         cleaned_sentence = ' '.join(filtered_words)
+        # Remove stopwords
+        filtered_words = [word for word in clean_words if word not in stopwords.words('english')]
 
-#         corpus.append(cleaned_sentence)
+        # Join the cleaned words to form a sentence
+        cleaned_sentence = ' '.join(filtered_words)
 
-#     return corpus
+        # Only append non-empty sentences to the corpus
+        if cleaned_sentence:
+            corpus.append(cleaned_sentence)
 
-# # Preprocess the paragraphs
-# corpus1 = preprocess_paragraph(content1)
-# corpus2 = preprocess_paragraph(content2)
+    return corpus
 
+# Preprocess the paragraphs
+corpus1 = preprocess_paragraph(content1)
+corpus2 = preprocess_paragraph(content2)
 
+def save_sentences_to_file(sentences, file_path):
+    with open(file_path, 'w', encoding='utf-8') as file:
+        for sentence in sentences:
+            file.write(sentence + '\n')
 
+# Save preprocessed sentences to temporary files
+temp_file_path1 = 'C:/Users/INDIA/.spyder-py3/FINAL_PROJECT/temp_corpus1.txt'
+temp_file_path2 = 'C:/Users/INDIA/.spyder-py3/FINAL_PROJECT/temp_corpus2.txt'
+
+save_sentences_to_file(corpus1, temp_file_path1)
+save_sentences_to_file(corpus2, temp_file_path2)
 
 # # Function to train a custom FastText model
-# def train_custom_fasttext_model(corpus, model_save_path, dim=100, min_count=1, epoch=5):
+# def train_custom_fasttext_model(file_path, model_save_path, dim=100, min_count=1, epoch=5):
 #     try:
-#         # Check if the corpus is not empty
-#         if corpus:
-#             model = fasttext.train_unsupervised(
-#                 corpus,
-#                 dim=dim,
-#                 minCount=min_count,
-#                 epoch=epoch
-#             )
+#         model = fasttext.train_unsupervised(
+#             file_path,
+#             dim=dim,
+#             minCount=min_count,
+#             epoch=epoch
+#         )
 
-#             # Save the trained model
-#             model.save_model(model_save_path)
-#             print(f"Model saved successfully at: {model_save_path}")
+#         # Save the trained model
+#         model.save_model(model_save_path)
+#         print(f"Model saved successfully at: {model_save_path}")
 
-#             return model
-#         else:
-#             print("Error: Empty corpus provided for model training.")
-#             return None
+#         return model
 #     except Exception as e:
 #         print("Error during model training:", str(e))
 #         return None
 
 # # Train FastText model on your custom data
-# # Specify the complete path, including the model file name
-# custom_fasttext_model_path = 'C:\\Users\\INDIA\\fasttext_models\\custom_model.bin'
+# custom_fasttext_model_path = '/content/sample_data/custom_model.bin'
 
-# # Train FastText model on your custom data
-# custom_fasttext_model = train_custom_fasttext_model(corpus1 + corpus2, custom_fasttext_model_path)
+# # Train FastText model using file paths
+# custom_fasttext_model = train_custom_fasttext_model(temp_file_path1, custom_fasttext_model_path)
 
 # # Check if the model is not None before getting vectors
 # if custom_fasttext_model:
@@ -106,6 +112,3 @@
 #     print("Cosine Similarity (Custom FastText):", custom_fasttext_similarity)
 # else:
 #     print("Custom FastText model is None. Please check the training process.")
-
-import fasttext
-print(fasttext.__version__)
