@@ -1,0 +1,308 @@
+aadhaar targeted delivery financial subsidy benefit service act arrangement section last updated chapter preliminary section
+short title extent commencement
+definition
+chapter ii enrolment
+aadhaar number
+aadhaar number child
+property aadhaar number
+special measure issuance aadhaar number certain category person
+update certain information
+chapter iii authentication
+proof aadhaar number necessary receipt certain subsidy benefit service etc
+authentication aadhaar number
+offline verification aadhaar number
+aadhaar number evidence citizenship domicile etc
+central identity data repository
+chapter iv unique identification authorityof india
+establishment authority
+composition authority
+qualification appointment chairperson member authority
+term office condition service chairperson member
+removal chairperson member
+restriction chairperson member employment cessation office
+function chairperson
+section
+chief executive officer
+meeting authority
+vacancy invalidate proceeding authority
+officer employee authority
+transfer asset liability authority
+power function authority
+power authority issue direction
+chapter v grant accountsand auditand annual report
+grant central government
+fund
+account audit
+return annual report etc
+chapter vi protectionof information
+security confidentiality information
+restriction sharing information
+biometric information deemed sensitive personal information
+alteration demographic information biometric information
+access information record request authentication
+disclosure information certain case
+chapter via civil penalty
+penalty failure comply provision act rule regulation direction
+power adjudicate
+appeal appellate tribunal
+procedure power appellate tribunal
+appeal supreme court india
+civil court jurisdiction
+chapter vii offencesand penalty section
+penalty impersonation time enrolment
+penalty impersonation aadhaar number holder changing demographic information biometric information
+penalty impersonation
+penalty disclosing identity information
+penalty unauthorised access central identity data repository
+penalty tampering data central identity data repository
+penalty unauthorised use requesting entity offline entity
+penalty intimation requirement
+general penalty
+offence company
+act apply offence contravention committed outside india
+power investigate offence
+penalty interfere punishment
+cognizance offence
+chapter viii miscellaneous
+power central government supersede authority
+member officer public servant
+power central government issue direction
+exemption tax income
+delegation
+protection action taken good faith
+power central government make rule
+power authority make regulation
+laying rule regulation parliament
+application law barred
+omitted
+power remove difficulty
+saving
+aadhaar targeted delivery financial subsidy benefit service act act
+march
+act provide good governance efficient transparent targeted delivery subsidy benefit service expenditure incurred consolidated fund india consolidated fund state individual residing india assigning unique identity number individual matter connected therewith incidental thereto
+enacted parliament year republic india follows chapter preliminary
+short title extent act may called aadhaar targeted delivery financial subsidy benefit service act
+shall extend whole india save otherwise provided act shall also apply offence contravention thereunder committed outside india person
+shall come force central government may notification official gazette appoint different date may appointed different provision act reference provision commencement act shall construed reference commencement provision
+act unless context otherwise requires aadhaar number mean identification number issued individual section includes alternative virtual identity generated section aa aadhaar ecosystem includes enrolling agency registrar requesting entity offline entity entity group entity may specified regulation b aadhaar number holder mean individual ha issued aadhaar number act ba adjudicating officer mean adjudicating officer appointed section bb appellate tribunal mean appellate tribunal referred section c authentication mean process aadhaar number alongwith demographic information biometric information individual submitted central identity data repository verification repository verifies correctness lack thereof basis information available
+act
+word except state jammu kashmir omitted act fifth schedule
+september section vide notification
+e dated september see gazette india extraordinary part ii ii
+july section vide notification
+e dated july see gazette india extraordinary part ii ii
+july vide notification
+e dated july see gazette india extraordinary part ii ii
+sub
+act clause
+ibid
+authentication record mean record time authentication identity requesting entity response provided authority thereto e authority mean unique identification authority india established section f benefit mean advantage gift reward relief payment cash kind provided individual group individual includes benefit may notified central government g biometric information mean photograph finger print iris scan biological attribute individual may specified regulation h central identity data repository mean centralised database one location containing aadhaar number issued aadhaar number holder along corresponding demographic information biometric information individual information related thereto chairperson mean chairperson authority appointed section ia child mean person ha completed eighteen year age j core biometric information mean finger print iris scan biological attribute individual may specified regulation k demographic information includes information relating name date birth address relevant information individual may specified regulation purpose issuing aadhaar number shall include race religion caste tribe ethnicity language record entitlement income medical history l enrolling agency mean agency appointed authority registrar case may collecting demographic biometric information individual act enrolment mean process may specified regulation collect demographic biometric information individual enrolling agency purpose issuing aadhaar number individual act n identity information respect individual includes aadhaar number biometric information demographic information member includes chairperson member authority appointed section p notification mean notification published official gazette expression notified cognate meaning grammatical variation shall construed accordingly pa offline verification mean process verifying identity aadhaar number holder without authentication offline mode may specified regulation pb offline entity mean entity desirous undertaking offline verification aadhaar number holder q prescribed mean prescribed rule made central government act r record entitlement mean record benefit subsidy service provided availed individual programme registrar mean entity authorised recognised authority purpose enrolling individual act regulation mean regulation made authority act
+act
+u requesting entity mean agency person submits aadhaar number demographic information biometric information individual central identity data repository authentication v resident mean individual ha resided india period period amounting one hundred day twelve month immediately preceding date application enrolment w service mean provision facility utility assistance provided form individual group individual includes service may notified central government x subsidy mean form aid support grant subvention appropriation cash kind individual group individual includes subsidy may notified central government
+chapter ii enrolment
+aadhaar every resident shall entitled obtain aadhaar number submitting demographic information biometric information undergoing process enrolment provided central government may time time notify category individual may entitled obtain aadhaar number
+enrolling agency shall time enrolment inform individual undergoing enrolment following detail manner may specified regulation namely manner information shall used b nature recipient information intended shared authentication c existence right access information procedure making request access detail person department request made
+receipt demographic information biometric information authority shall verifying information manner may specified regulation issue aadhaar number individual
+aadhaar number issued individual shall identification number alternative virtual identity alternative actual aadhaar number individual shall generated authority manner may specified regulation
+aadhaar number enrolling agency shall time enrolment child seek consent parent guardian child inform parent guardian detail specified section
+child aadhaar number holder may within period six month attaining eighteen year age make application authority cancellation aadhaar number manner may specified regulation authority shall cancel aadhaar number
+notwithstanding anything section child shall denied subsidy benefit service section case failure establish identity undergoing authentication furnishing
+act
+ibid
+proof possession aadhaar number case child aadhaar number ha assigned producing application enrolment
+property aadhaar aadhaar number issued individual shall assigned individual
+aadhaar number shall random number bear relation attribute identity aadhaar number holder
+every aadhaar number holder establish identity may voluntarily use aadhaar number physical electronic form way authentication offline verification form may notified manner may specified regulation
+purpose section voluntary use aadhaar number way authentication mean use aadhaar number informed consent aadhaar number holder
+entity may allowed perform authentication authority satisfied requesting entity compliant standard privacy security may specified regulation b permitted offer authentication service provision law made parliament ii seeking authentication purpose central government consultation authority interest state may prescribe
+authority may regulation decide whether requesting entity shall permitted use actual aadhaar number authentication alternative virtual identity
+every requesting entity authentication request made aadhaar number holder shall inform aadhaar number holder alternate viable mean identification shall deny service refusing unable undergo authentication
+notwithstanding anything contained foregoing provision mandatory authentication aadhaar number holder provision service shall take place authentication required law made parliament
+special measure issuance aadhaar number certain category authority shall take special measure issue aadhaar number woman child senior citizen person disability unskilled unorganised worker nomadic tribe person permanent dwelling house category individual may specified regulation
+update certain authority may require aadhaar number holder update demographic information biometric information time time manner may specified regulation ensure continued accuracy information central identity data repository
+sub
+act
+chapter iii authentication
+proof aadhaar number necessary receipt certain subsidy benefit service central government case may state government may purpose establishing identity individual condition receipt subsidy benefit service expenditure incurred receipt therefrom form part consolidated fund india consolidated fund state require individual undergo authentication furnish proof possession aadhaar number case individual aadhaar number ha assigned individual make application enrolment provided aadhaar number assigned individual individual shall offered alternate viable mean identification delivery subsidy benefit service
+authentication aadhaar authority shall perform authentication aadhaar number aadhaar number holder submitted requesting entity relation biometric information demographic information subject condition payment fee manner may specified regulation
+requesting entity unless otherwise provided act obtain consent individual case child obtain consent parent guardian collecting identity information purpose authentication manner may specified regulation b ensure identity information individual used submission central identity data repository authentication
+provided requesting entity shall case failure authenticate due illness injury infirmity owing old age otherwise technical reason provide alternate viable mean identification individual may specified regulation
+requesting entity shall inform manner may specified regulation individual submitting identity information authentication case child parent guardian following detail respect authentication namely nature information may shared upon authentication b us information received authentication may put requesting entity c alternative submission identity information requesting entity
+authority shall respond authentication query positive negative appropriate response sharing identity information excluding core biometric information
+offline verification aadhaar every offline verification aadhaar number holder shall performed accordance provision section
+every offline entity shall performing offline verification obtain consent individual case child parent guardian manner may specified regulation
+act
+ibid
+ibid
+b ensure demographic information information collected individual offline verification used purpose verification
+offline entity shall inform individual undergoing offline verification case child parent guardian following detail respect offline verification manner may specified regulation namely nature information may shared upon offline verification b us information received offline verification may put offline entity c alternative submission information requested
+offline entity subject aadhaar number holder authentication b collect use store aadhaar number biometric information individual purpose c take action contrary obligation may specified regulation
+aadhaar number evidence citizenship domicile aadhaar number authentication thereof shall confer right proof citizenship domicile respect aadhaar number holder
+central identity data authority may engage one entity establish maintain central identity data repository perform function may specified regulation
+chapter iv unique identification authorityof inida
+establishment central government shall notification establish authority known unique identification authority india responsible process enrolment authentication perform function assigned act
+authority shall body corporate name aforesaid perpetual succession common seal power subject provision act acquire hold dispose property movable immovable contract shall said name sue sued
+head office authority shall new delhi
+authority may prior approval central government establish office place india
+composition authority shall consist chairperson appointed time basis two member chief executive officer shall secretary authority appointed central government
+appointment chairperson member chairperson member authority shall person ability integrity experience knowledge least ten year matter relating technology governance law development economics finance management public affair administration
+term office condition service chairperson chairperson member appointed act shall hold office term three year date assume office shall eligible provided person shall hold office chairperson member ha attained age year
+chairperson every member shall entering office make subscribe oath office secrecy form manner authority may prescribed
+notwithstanding anything contained chairperson member relinquish office giving writing central government notice le thirty day b removed office accordance provision section
+salary allowance payable term condition service chairperson allowance remuneration payable member shall may prescribed
+removal chairperson central government may remove office chairperson member time ha adjudged insolvent b ha become physically mentally incapable acting chairperson case may member c ha convicted offence opinion central government involves moral turpitude ha acquired financial interest likely affect prejudicially function chairperson case may member e ha opinion central government abused position render continuance office detrimental public interest
+chairperson member shall removed clause b clause clause e unless ha given reasonable opportunity heard
+restriction chairperson member employment cessation chairperson member ceasing hold office reason shall without previous approval central government accept employment connected management organisation company entity ha associated work done contracted authority whether directly indirectly tenure chairperson member case may period three year date cease hold office provided nothing contained clause shall apply employment central government state government local authority statutory authority corporation established central state provincial act government company defined clause section company act b act behalf person organisation connection specific proceeding transaction negotiation case authority party respect chairperson member cessation office acted provided advice authority c give advice person using information wa obtained capacity chairperson member unavailable able made available public enter period three year last day office contract service accept appointment board director accept offer employment entity direct significant official dealing term office
+function chairperson shall preside meeting authority without prejudice provision act exercise discharge power function authority may prescribed
+chief executive shall chief executive officer authority rank additional secretary government india appointed central government
+chief executive officer shall legal representative authority shall responsible administration authority b implementing work programme decision adopted authority c drawing proposal authority decision work programme preparation statement revenue expenditure execution budget authority e performing function exercising power may specified regulation
+every year chief executive officer shall submit authority general report covering activity authority previous year b programme work c annual account previous year budget coming year
+chief executive officer shall administrative control officer employee authority
+meeting authority shall meet time place shall observe rule procedure regard transaction business meeting including quorum meeting may specified regulation
+chairperson reason unable attend meeting authority senior member shall preside meeting authority
+question come meeting authority shall decided majority vote member present voting event anequality vote chairperson absence presiding member shall casting vote
+decision authority shall signed chairperson member authorised authority behalf
+member director company director ha direct indirect pecuniary interest manner coming consideration meeting authority shall soon possible relevant circumstance come knowledge disclose nature interest meeting disclosure shall recorded proceeding authority member shall take part deliberation decision authority respect matter
+vacancy invalidate proceeding act proceeding authority shall invalid merely reason vacancy defect constitution authority b defect appointment person chairperson member authority c irregularity procedure authority affecting merit case
+officer employee authority shall appoint officer employee may required discharge function act
+salary allowance payable term condition service officer employee authority shall may specified regulation
+transfer asset liability establishment asset liability unique identification authority india established vide notification government india planning commission number admin
+dated january shall stand transferred vested authority
+asset unique identification authority india shall deemed include right power property whether movable immovable including particular cash balance deposit interest right arising property may possession unique identification authority india book account document relating liability shall deemed include debt liability obligation whatever kind b without prejudice provision clause data information collected enrolment detail authentication performed debt obligation liability incurred contract entered matter thing engaged done unique identification authority india immediately day connection purpose said unique identification authority india shall deemed incurred entered engaged done authority c sum money due said unique identification authority india immediately day shall deemed due authority suit legal proceeding instituted could instituted unique identification authority india immediately day may continued may instituted authority
+power function authority shall develop policy procedure system issuing aadhaar number individual perform authentication thereof act
+without prejudice power function authority inter alia specifying regulation demographic information biometric information required enrolment process collection verification thereof b collecting demographic information biometric information individual seeking aadhaar number manner may specified regulation c appointing one entity operate central identity data repository generating assigning aadhaar number individual e performing authentication aadhaar number f maintaining updating information individual central identity data repository manner may specified regulation g omitting deactivating aadhaar number information relating thereto manner may specified regulation h specifying manner use aadhaar number purpose providing availing various subsidy benefit service purpose aadhaar number may used
+sub
+act section
+specifying regulation term condition appointment registrar enrolling agency service provider revocation appointment thereof j establishing operating maintaining central identity data repository k sharing manner may specified regulation information aadhaar number holder subject provision act l calling information record conducting inspection inquiry audit operation purpose act central identity data repository registrar enrolling agency agency appointed act specifying regulation various process relating data management security protocol technology safeguard act n specifying regulation condition procedure issuance new aadhaar number existing aadhaar number holder levying collecting fee authorising registrar enrolling agency service provider collect fee service provided act manner may specified regulation p appointing committee may necessary assist authority discharge function purpose act q promoting research development advancement biometrics related area including usage aadhaar number appropriate mechanism r evolving specifying regulation policy practice registrar enrolling agency service provider setting facilitation centre grievance redressal mechanism redressal grievance individual registrar enrolling agency service provider power function may prescribed
+authority may enter memorandum understanding agreement case may central government state government union territory agency purpose performing function relation collecting storing securing processing information delivery aadhaar number individual performing authentication b notification appoint number registrar engage authorise agency collect store secure process information authentication perform function relation thereto may necessary purpose act
+authority may engage consultant advisor person may required efficient discharge function act allowance remuneration term condition may specified contract
+power authority issue authority may discharge function act rule regulation made order issue direction time time entity aadhaar ecosystem may consider necessary
+every direction issued shall complied entity aadhaar ecosystem direction issued
+act
+chapter v grant account audit annual report
+grant central central government may due appropriation made parliament law behalf make authority grant sum money central government may think fit utilised purpose act
+shall constituted fund called unique identification authority india fund shall credited grant fee charge received authority act b sum received authority source may decided upon central government
+fund shall applied salary allowance payable chairperson member administrative expense including salary allowance pension payable respect officer employee authority b expense object purpose authorised act
+account authority shall maintain proper account relevant record prepare annual statement account form may prescribed central government consultation comptroller india
+account authority shall audited annually comptroller india interval may specified expenditure incurred connection audit shall payable authority comptroller
+comptroller india person appointed connection audit account authority act shall right privilege authority connection audit comptroller generally ha connection audit government account particular shall right demand production book account connected voucher document paper inspect office authority
+account authority certified comptroller india person appointed behalf together audit report thereon shall forwarded annually central government authority central government shall cause audit report laid soon may received house parliament
+return annual report authority shall furnish central government time form manner may prescribed central government may direct return statement particular regard matter jurisdiction authority central government may time time require
+authority shall prepare every year form manner time may prescribed annual report description activity authority previous year b annual account previous year c programme work coming year
+copy report received shall laid central government soon may received house parliament
+sub
+act section
+chapter vi protectionof information
+security confidentiality authority shall ensure security identity information authentication record individual
+subject provision act authority shall ensure confidentiality identity information authentication record individual
+authority shall take necessary measure ensure information possession control authority including information stored central identity data repository secured protected access use disclosure permitted act regulation made thereunder accidental intentional destruction loss damage
+without prejudice authority adopt implement appropriate technical organisational security measure b ensure agency consultant advisor person appointed engaged performing function authority act place appropriate technical organisational security measure information c ensure agreement arrangement entered agency consultant advisor person impose obligation equivalent imposed authority act require agency consultant advisor person act instruction authority
+notwithstanding anything contained law time force save otherwise provided act authority officer employee agency maintains central identity data repository shall whether service thereafter reveal information stored central identity data repository authentication record anyone provided aadhaar number holder may request authority provide access identity information excluding core biometric information manner may specified regulation
+restriction sharing core biometric information collected created act shall shared anyone reason whatsoever b used purpose generation aadhaar number authentication act
+identity information core biometric information collected created act may shared accordance provision act manner may specified regulation
+identity information available requesting entity offline entity shall used purpose purpose informed writing individual time submitting information authentication offline verification b disclosed purpose purpose informed writing individual time submitting information authentication offline verification provided purpose clause b shall clear precise language understandable individual
+sub
+act
+aadhaar number demographic information photograph collected created act respect aadhaar number holder shall published displayed posted publicly except purpose may specified regulation
+biometric information deemed sensitive personal biometric information collected stored electronic form accordance act regulation made thereunder shall deemed electronic record sensitive personal data information provision contained information technology act rule made thereunder shall apply information addition extent derogation provision act
+purpose section electronic form shall meaning assigned clause r section information technology act b electronic record shall meaning assigned clause section information technology act c sensitive personal data information shall meaning assigned clause iii explanation section information technology act
+alteration demographic information biometric case demographic information aadhaar number holder found incorrect change subsequently aadhaar number holder shall request authority alter demographic information record central identity data repository manner may specified regulation
+case biometric information aadhaar number holder lost change subsequently reason aadhaar number holder shall request authority make necessary alteration record central identity data repository manner may specified regulation
+receipt request authority may satisfied make alteration may required record relating aadhaar number holder intimate alteration concerned aadhaar number holder
+identity information central identity data repository shall altered except manner provided act regulation made behalf
+access information record request authority shall maintain authentication record manner period may specified regulation
+every aadhaar number holder shall entitled obtain authentication record manner may specified regulation
+authority shall either entity control collect keep maintain information purpose authentication
+disclosure information certain nothing contained section section shall apply respect disclosure information including identity information authentication record made pursuant order court inferior judge high court provided order court shall made without giving opportunity hearing authority concerned aadhaar number holder
+provided core biometric information shall disclosed
+nothing contained section clause b section shall apply respect disclosure information including identity information authentication record made interest national security
+sub
+act core biometric information
+sub
+district judge
+ibid
+pursuance direction officer rank secretary government india specially authorised behalf order central government provided every direction issued shall reviewed oversight committee consisting cabinet secretary secretary government india department legal affair department electronics information technology take effect provided direction issued shall valid period three month date issue may extended period three month review oversight committee
+chapter via civil penalty
+penalty failure comply provision act rule regulation entity aadhaar ecosystem fails comply provision act rule regulation made direction issued authority section fails furnish information document return report required authority entity shall liable civil penalty may extend one crore rupee contravention case continuing failure additional penalty may extend ten lakh rupee every day failure continues first contravention
+amount penalty imposed section paid may recovered arrear land revenue
+power purpose adjudication section imposing penalty authority shall appoint officer authority rank joint secretary government india possessing qualification experience may prescribed adjudicating officer holding inquiry manner may prescribed
+inquiry shall initiated except complaint made authority
+holding inquiry adjudicating officer provide entity aadhaar ecosystem complaint made opportunity heard b power summon enforce attendance person acquainted fact circumstance case give evidence produce document opinion adjudicating officer may useful relevant subject matter inquiry
+adjudicating officer inquiry satisfied entity aadhaar ecosystem ha failed comply provision act rule regulation made direction issued authority section ha failed furnish information document return report required authority adjudicating officer may order impose penalty section think fit
+sub
+act joint secretary
+ibid
+appeal appellate telecom dispute settlement appellate tribunal established section telecom regulatory authority india act shall appellate tribunal purpose hearing appeal decision adjudicating officer act
+person entity aadhaar ecosystem aggrieved order adjudicating officer section may prefer appeal appellate tribunal within period day date receipt order appealed form manner accompanied fee may prescribed provided appellate tribunal may entertain appeal expiry said period day satisfied wa sufficient cause filing within period
+receipt appeal appellate tribunal may giving party appeal opportunity heard pas order thereon think fit confirming modifying setting aside order appealed
+appellate tribunal shall send copy every order made party appeal adjudicating officer
+appeal filed shall dealt appellate tribunal expeditiously possible every endeavour shall made dispose appeal within six month date presented
+appellate tribunal may purpose deciding appeal call record relevant disposing appeal make order think fit
+procedure power appellate provision section inclusive telecom regulatory authority india act shall mutatis mutandis apply appellate tribunal discharge function act apply discharge function act
+appeal supreme court notwithstanding anything contained code civil procedure law time force appeal shall lie order interlocutory order appellate tribunal supreme court substantial question law arising order
+appeal shall lie decision order made appellate tribunal party consented
+every appeal section shall preferred within period day date decision order appealed provided supreme court may entertain appeal expiry said period day satisfied wa sufficient cause filing within period
+civil court civil court shall jurisdiction entertain suit proceeding respect matter adjudicating officer appointed act appellate tribunal empowered act determine injunction shall granted court authority respect action taken taken pursuance power conferred act
+chapter vii offencesand penalty
+penalty impersonation time impersonates attempt impersonate another person whether dead alive real imaginary providing false demographic information biometric information shall punishable imprisonment term may extend three year fine may extend ten thousand rupee
+penalty impersonation aadhaar number holder changing demographic information biometric intention causing harm mischief aadhaar number holder intention appropriating identity aadhaar number holder change attempt change demographic information biometric information aadhaar number holder impersonating attempting impersonate another person dead alive real imaginary shall punishable imprisonment term may extend three year shall also liable fine may extend ten thousand rupee
+penalty authorised collect identity information provision act word conduct demeanour pretend authorised shall punishable imprisonment term may extend three year fine may extend ten thousand rupee case company fine may extend one lakh rupee
+penalty disclosing identity whoever intentionally discloses transmits copy otherwise disseminates identity information collected course enrolment authentication person authorised act regulation made thereunder contravention agreement arrangement entered pursuant provision act shall punishable imprisonment term may extend three year fine may extend ten thousand rupee case company fine may extend one lakh rupee
+penalty unauthorised access central identity data authorised authority intentionally access secures access central identity data repository b downloads copy extract data central identity data repository stored removable storage medium c introduces cause introduced virus computer contaminant central identity data repository damage cause damaged data central identity data repository e disrupts cause disruption access central identity data repository f denies cause denial access person authorised access central identity data repository g reveals information contravention section share us display information contravention section assist person aforementioned act h destroys deletes alters information stored removable storage medium central identity data repository diminishes value utility affect injuriously mean steal conceals destroys alters cause person steal conceal destroy alter computer source code used authority intention cause damage shall punishable imprisonment term may extend ten year shall also liable fine shall le ten lakh rupee
+purpose section expression computer contaminant computer virus damage shall meaning respectively assigned explanation section information technology act expression computer source code shall meaning assigned explanation section said act
+penalty tampering data central identity data authorised authority us tamper data central identity data repository removable storage medium intent modifying information relating aadhaar number holder discovering information thereof shall punishable imprisonment term may extend ten year shall also liable fine may extend ten thousand rupee
+penalty unauthorised use requesting entity offline whoever requesting entity us identity information individual contravention section b offline entity us identity information individual contravention section shall punishable imprisonment may extend three year fine may extend ten thousand rupee case company fine may extend one lakh rupee
+penalty intimation enrolling agency requesting entity fails comply requirement section section section shall punishable imprisonment may extend one year fine may extend ten thousand rupee case company fine may extend one lakh rupee
+general commits offence act rule regulation made thereunder specific penalty provided elsewhere section shall punishable imprisonment term may extend three year fine may extend thousand rupee case company fine may extend one lakh rupee
+offence offence act ha committed company every person time offence wa committed wa charge wa responsible company conduct business company well company shall deemed guilty offence shall liable proceeded punished accordingly provided nothing contained shall render person liable punishment provided act prof offence wa committed without knowledge exercised due diligence prevent commission offence
+notwithstanding anything contained offence act ha committed company proved offence ha committed consent connivance attributable neglect part director manager secretary officer company director manager secretary officer shall also deemed guilty offence shall liable proceeded punished accordingly
+purpose company mean body corporate includes firm association individual b director relation firm mean partner firm
+sub
+act three year
+sub
+sub
+section
+sub
+one year
+act apply offence contravention committed outside subject provision provision act shall apply also offence contravention committed outside india person irrespective nationality
+purpose provision act shall apply offence contravention committed outside india person act conduct constituting offence contravention involves data central identity data repository
+power investigate anything contained code criminal procedure police officer rank inspector police shall investigate offence act
+penalty interfere penalty imposed act shall prevent imposition penalty punishment law time force
+cognizance court shall take cognizance offence punishable act save complaint made authority officer person authorised
+provided court may complaint made aadhaar number holder individual take cognizance offence punishable section section
+court inferior chief metropolitan magistrate chief judicial magistrate shall try offence punishable act
+chapter viii miscellaneous
+power central government supersede time central government opinion account circumstance beyond control authority unable discharge function perform duty imposed provision act b authority ha persistently defaulted complying direction given central government act discharge function performance duty imposed provision act result default financial position authority administration authority ha suffered c public emergency exists central government may notification supersede authority period exceeding six month may specified notification appoint person person president may direct exercise power discharge function act provided issuing notification central government shall give reasonable opportunity authority make representation proposed supersession shall consider representation authority
+upon publication notification superseding authority chairperson member shall date supersession vacate office b power function duty may provision act exercised discharged behalf authority shall authority reconstituted exercised discharged person person referred c property owned controlled authority shall authority reconstituted vest central government
+act
+expiration period supersession specified notification issued central government shall reconstitute authority fresh appointment chairperson member case person vacated office clause shall deemed disqualified reappointment
+central government shall cause copy notification issued full report action taken section circumstance leading action laid house parliament earliest
+member officer public chairperson member officer employee authority shall deemed acting purporting act pursuance provision act public servant within meaning section indian penal code
+power central government issue without prejudice foregoing provision act authority shall exercise power performance function act bound direction question policy central government may give writing time time provided authority shall far practicable given opportunity express view direction given provided nothing section shall empower central government issue direction pertaining technical administrative matter undertaken authority
+decision central government whether question one policy shall final
+exemption tax anything contained act enactment time force relating tax income profit gain authority shall liable pay tax respect income profit gain
+authority may general special order writing delegate member officer authority person subject condition may specified order power function act except power section may deem necessary
+protection action taken good suit prosecution legal proceeding shall lie central government authority chairperson member officer employee authority anything good faith done intended done act rule regulation made thereunder
+power central government make central government may notification make rule carry provision act
+particular without prejudice generality foregoing power rule may provide following matter namely form manner authority oath office secrecy subscribed chairperson member section aa purpose requesting entity may allowed authority perform authentication ii clause b section
+act
+sub
+member officer
+ibid
+b salary allowance payable term condition service chairperson allowance remuneration payable member authority section c power function chairperson authority section power function authority clause section e form annual statement account prepared authority section f form manner time within return statement particular furnished section g form manner time authority shall furnish annual report section ga qualification experience manner appointment adjudicating officer section gb form manner fee appeal filed section h matter required may prescribed respect provision may made rule
+power authority make authority may notification make regulation consistent act rule made thereunder carrying provision act
+particular without prejudice generality foregoing power regulation may provide following matter namely entity group entity aadhaar ecosystem clause aa biometric information clause g demographic information clause k process collecting demographic information biometric information individual enrolling agency clause mode offline verification aadhaar number holder clause pa section b manner verifying demographic information biometric information issue aadhaar number section ba manner generating alternative virtual identity section bb manner cancellation aadhaar number may carried section c condition accepting aadhaar number proof identity aadhaar number holder section ca standard privacy security complied requesting entity section cb classification requesting entity section category individual section authority shall take special measure allotment aadhaar number e manner updating biometric information demographic information section
+act
+sub
+clause
+ibid
+f procedure authentication aadhaar number section fa alternate viable mean identification individual proviso clause b section fb manner obtaining consent clause manner providing information individual undergoing offline verification obligation offline entity clause c section g function performed central identity data repository section h time place meeting authority procedure transaction business followed including quorum section salary allowance payable term condition service chief executive officer officer employee authority section j demographic information biometric information clause manner collection clause b section k manner maintaining updating information individual central identity data repository clause f section l manner omitting deactivating aadhaar number information relating thereto clause g section manner use aadhaar number purpose providing availing various subsidy benefit service purpose aadhaar number may used clause h section n term condition appointment registrar enrolling agency service provider revocation appointment thereof clause section manner sharing information aadhaar number holder clause k section p various process relating data management security protocol technology safeguard clause section q procedure issuance new aadhaar number existing aadhaar number holder clause n section r manner authorising registrar enrolling agency service provider collect fee service provided clause section policy practice followed registrar enrolling agency service provider clause r section manner accessing identity information aadhaar number holder proviso section u manner sharing identity information core biometric information collected created act section v manner alteration demographic information biometric information section w manner time maintaining request authentication response thereon manner obtaining aadhaar number holder authentication record section
+act
+x matter required may specified respect provision may made regulation
+laying rule regulation rule every regulation made act shall laid soon may made house parliament session total period thirty day may comprised one session two successive session expiry session immediately following session successive session aforesaid house agree making modification rule regulation house agree rule regulation made rule regulation shall thereafter effect modified form effect case may however modification annulment shall without prejudice validity anything previously done rule regulation
+application law provision act shall addition derogation law time force
+act prevent use aadhaar number purpose aadhaar law amendment act act
+power remove difficulty arises giving effect provision act central government may order published official gazette make provision inconsistent provision act may appear necessary removing difficulty provided order shall made section expiry three year commencement act
+every order made section shall laid soon may made house parliament
+done action taken central government resolution government india planning commission bearing notification number
+dated january department electronics information technology cabinet secretariat notification bearing notification number e dated september case may shall deemed validly done taken act
