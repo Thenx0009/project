@@ -81,6 +81,8 @@ temp_file_path2 = '/content/sample_data/temp_corpus2.txt'
 save_sentences_to_file(corpus1, temp_file_path1)
 save_sentences_to_file(corpus2, temp_file_path2)
 
+
+
 # Function to train a custom FastText model
 def train_custom_fasttext_model(file_path, model_save_path, dim=100, min_count=1, epoch=5):
     try:
