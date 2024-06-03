@@ -204,4 +204,10 @@ flying
 
 
 
+What is an advantage of cosine similarity over other vector similarity measures?
+
+Advantages : The cosine similarity is beneficial because even if the two similar data objects are far apart by the Euclidean distance because of the size, they could still have a smaller angle between them. Smaller the angle, higher the similarity.
+
+The cosine similarity is the dot product divided by the product of the two vectors' magnitudes. This method effectively captures the orientation (or direction) of the vectors and not their magnitude, making it a reliable measure of similarity in texts of varying lengths.
+
 
